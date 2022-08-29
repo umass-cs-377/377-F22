@@ -6,8 +6,10 @@
 - **Start Date**: September 6, 2022
 - **End Date**: December 12, 2022
 - **Credits**: 4
-- **Lectures**: **01-LEC (44864)**: TuTh 10:00AM - 11:15AM, Goessmann Lab. Add rm 64 Tim Richards
-- **Labs**: **01AA-DIS(44865)**: Fr 12:20PM - 1:10PM, Goessmann Lab. Add rm 64 Staff
+- **Lectures**:
+  - **01-LEC (44864)**: TuTh 10:00AM - 11:15AM, Goessmann Lab. Add rm 64 Tim Richards
+- **Labs**:
+  - **01AA-DIS(44865)**: Fr 12:20PM - 1:10PM, Goessmann Lab. Add rm 64 Staff
 - **Prerequisites**: COMPSCI 230 Computer Systems Principles. This course assumes a solid understanding of the C programming language, command line, basic Unix skills, the ability to learn new programming languages, how to compile programs, how to build programs using make, and general use of typical Unix commands and environment.
 - **Instructors**: Tim Richards
 - **Staff**: Dave Dirnfeld (TA), Calvin Chai (TA), Bochen Xu (TA), Matthew Weiner (TA), Stuart Lustig (UCA), Meghana Kaki (UCA), Eugene Mak (UCA), Rohit Rangan (UCA), Sage Chircu (UCA), Yichong Liu (UCA), Ronan Salz (UCA), Zhiyang Zuo (UCA), Vinh Le (UCA)
