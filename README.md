@@ -4,3 +4,4 @@
 
 - [Syllabus](syllabus/syllabus.md)
 - [Schedule](syllabus/schedule.md)
+- [Important Dates](syllabus/dates.md)
