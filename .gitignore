@@ -1,3 +1,6 @@
+# Ignore microsoft temp files
+~$*
+
 # Prerequisites
 *.d
 
