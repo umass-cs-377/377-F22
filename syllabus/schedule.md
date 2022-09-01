@@ -30,8 +30,11 @@ Su Mo Tu We Th Fr Sa
 ## Notes
 
 - **Project assignments** are typically assigned on Friday's and due on a Tuesday. You typically have 2 weeks to complete a project assignment.
+  
 - **Discussions** have an associated lab/exercise. You should attend the lab to work with other students in groups and ask the TAs and UCAs questions. A discussion exercise is assigned in lab on Friday and due the following Tuesday.
+  
 - **Topic quizzes** are assigned periodically during the semester. They will assess your knowledge on the material. They will be available on Moodle for 3 days. You will have 1 hour to complete them once you start.
+  
 - The **final exam** will take place during the final examination period. It will be a take home exam on Moodle consisting of multiple choice, true/false, etc. as well as some coding questions.
 
 ---
@@ -151,3 +154,4 @@ Su Mo Tu We Th Fr Sa
 - Final Exams (Su, 12/18)
 - Final Exams (Mo, 12/19)
 - Final Exams (Tu, 12/20)
+- **Final Exam (Due: Wd, 12/20)**
