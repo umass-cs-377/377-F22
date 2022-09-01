@@ -10,6 +10,8 @@ In this course we examine the important problems in operating system design and 
 
 ## Usage
 
+Make sure you have [git](https://git-scm.com/downloads) installed on your local machine before proceeding.
+
 You can easily access all the course material from this GitHub repository. We recommend that you clone this repository to your local computer and do frequent pulls to get the latest changes. You can do this in several ways. We recommend the [`gh` command line tool](https://github.com/cli/cli) as it easy to use and provides useful GitHub related tasks. If you choose to use `gh`, you can clone this repository by running the following command:
 
 ```bash
