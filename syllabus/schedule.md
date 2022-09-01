@@ -44,7 +44,7 @@ Su Mo Tu We Th Fr Sa
 - Lecture: Course Introduction (Tu, 9/6)
 - Lecture: Introduction to Operating Systems (Th, 9/8)
 - **Discussion 1: Edlab, VSCode, and C++ (Fr, 9/9)**
-- **Project 1: Inverted Index (Assigned: Fr, 9/16)**
+- **Project 1: Inverted Index (Assigned: Fr, 9/9)**
 
 ## Week 02 (9/11 - 9/17)
 
@@ -67,7 +67,7 @@ Su Mo Tu We Th Fr Sa
 - Lecture: Scheduling Conclusion (Th, 9/29)
 - **Topic Exam #1: Processes & Limited Direct Execution (Due: Th, 9/29)**
 - **Discussion: Scheduling (Fr, 9/30)**
-- **Project 3: Scheduling (Assigned: Fr, 9/16)**
+- **Project 3: Scheduling (Assigned: Fr, 9/30)**
   
 ## Week 05 (10/2 - 10/8)
 
