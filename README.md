@@ -38,32 +38,44 @@ If you clone this repository to your local computer, you may prefer to preview t
 
 We will be using C/C++ in this course as part of the programming assignments. You will be completing projects in the Edlab environment. We recommend you install the following VSCode extensions to enhance your coding experience. You can follow the links below or simply search for them in the VSCode extension manager.
 
-### Name: Better C++ Syntax
+There are two categories of extensions. The local extensions refer to extensions you will want to install in VSCode on your local computer. The remote extensions are those that you want to install after you have connected to the Edlab.
+
+**Do not worry, we will provide instructions on how to do this.**
+
+### Local Extensions
+
+#### Name: Remote - SSH
+
+First, you need to install the following extension which will allow you to open folders in the Edlab environment using VSCode on your local machine:
+
+- Description: Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
+- Publisher: Microsoft
+- VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
+
+### Remote Extensions
+
+You will want to install the extensions below when you use VSCode connected to the remote Edlab environment.
+
+#### Name: Better C++ Syntax
 
 - Description: The bleeding edge of the C++ syntax
 - Publisher: Jeff Hykin
 - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=jeff-hykin.better-cpp-syntax
 
-### Name: C/C++ Extension Pack
+#### Name: C/C++ Extension Pack
 
 - Description: Popular extensions for C++ development in Visual Studio Code.
 - Publisher: Microsoft
 - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
 
-### Name: Makefile Tools
+#### Name: Makefile Tools
 
 - Description: Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.
 - Publisher: Microsoft
 - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools
 
-### Name: Prettier - Code formatter
+#### Name: Prettier - Code formatter
 
 - Description: Code formatter using prettier
 - Publisher: Prettier
 - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
-### Name: Remote - SSH
-
-- Description: Open any folder on a remote machine using SSH and take advantage of VS Code's full feature set.
-- Publisher: Microsoft
-- VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
