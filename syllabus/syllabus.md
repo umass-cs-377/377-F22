@@ -95,7 +95,7 @@ There are several different programming editors available for you to choose from
 
 Another great option is [VSCode](https://code.visualstudio.com/) that can be used locally to edit code remotely on the Edlab. This is an excellent editor, but it does require some setup to use [Remote Development using ssh](https://code.visualstudio.com/docs/remote/ssh).
 
-There are many short tutorials out there. We recommend that you do a quick search to find an introductory tutorial to become acquainted with at least one of these editors if you are not already familiar with one of them. You will have some guidance in the first lab!
+There are many short tutorials out there. We recommend that you do a quick search to find an introductory tutorial to become acquainted with at least one of these editors if you are not already familiar with one of them. You will have some guidance in the first discussion!
 
 ## Communication
 
@@ -118,16 +118,11 @@ Although we want you to attend the lecture for your section in person, we unders
 - **Remote Synchronous**: attend the lecture remotely on Zoom and ask questions through the chat system.
 - **Asynchronous**: watch the recorded lecture at a time that is convenient for you.
 
-### Lab
+### Discussion
 
-The Lab section is led by teaching assistants (TAs) for this course. There will also be undergraduate course assistants (UCA) assigned to your lab section. You are expected to attend every lab section. Labs are used to begin lab assignments and get help completing those assignments. Missing a lab section does not excuse you from any activities that occur during that time. Do not ask to make up any missed work during lab section time.
+The discussion section is led by teaching assistants (TAs) for this course. There will also be undergraduate course assistants (UCA) assigned to your discussion section. You are expected to attend every discussion. Discussions are used to begin discussion exercises and get help completing those assignments. Missing a discussion section does not excuse you from any activities that occur during that time. Do not ask to make up any missed work during discussion section time.
 
-**What happens if I can’t attend a lab in person?**
-
-Although we want you to attend labs in person, we understand that sometimes that isn’t always possible. For that reason, we provide flexible options that allow you to participate.
-
-- **Remote Synchronous**: attend the lab remotely on Zoom and ask questions through the messaging system.
-- **Asynchronous**: labs will not be recorded, however, you must still complete the lab activity by the assigned due date.
+**Discussions will not be recorded or on Zoom.**
 
 ## Rules for Success
 
@@ -176,7 +171,7 @@ The anticipated breakdown of course grades is as follows; this is subject to cha
   
 - **Topic Quizzes**: Topic quizzes will test your knowledge of the material. There will be approximately 6 of these assessments. They will be multiple choice, true/false, etc. They will be available on Moodle during a 24 hour period. Once you start a topic quiz you will have 50 minutes to complete it.
 
-- **Final Exam**: There will be a final exam for this course that you will complete during the final examination period. The final exam will be cumulative and will include a certain percentage of the questions you have already seen on the topic quizzes. The final exam will also include some open response questions in addition to multiple choice, true/false, etc. style questions. You will have 2 hours to complete the final exam once you start.
+- **Final Exam**: There will be a final exam for this course that you will complete during the final examination period. The final exam will be cumulative and will include a certain percentage of the questions you have already seen on the topic quizzes. The final exam will also include some open response questions in addition to multiple choice, true/false, etc. style questions. You will have 2 hours to complete the final exam once you start. The exam will be take home.
   
 - **Discussion Exercises**: A discussion exercise is a short activity that will focus on expanding your knowledge in a particular topic area. They are often designed to provide guidance for an upcoming project or to enhance your understanding of the content for that week. They are graded both automatically and manually.
 
@@ -215,7 +210,7 @@ If you have been the victim of sexual violence, gender discrimination, or sexual
 
 ## Attendance and Participation
 
-You are expected to attend class and lab regularly, read any assigned readings before class, and participate in class discussions and activities. Your participation will be evaluated in a variety of ways. This includes any in class activities or activities that may be given during class or lab sections. You are responsible for maintaining your own schedule and ensuring that you are present during these activities and/or complete them in a timely manner. It is generally not possible to make up missed activities.
+You are expected to attend class and discussion regularly, read any assigned readings before class, and participate in class discussions and activities. Your participation will be evaluated in a variety of ways. This includes any in class activities or activities that may be given during class or discussion sections. You are responsible for maintaining your own schedule and ensuring that you are present during these activities and/or complete them in a timely manner. It is generally not possible to make up missed activities.
 
 ## Course Incompletes
 
