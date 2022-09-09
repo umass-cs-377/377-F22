@@ -1,6 +1,8 @@
 # 01 Course Introduction
 
-## Additional C/C++ Resources
+## C/C++ Resources
+
+Some useful resources in case you are a little rusty.
 
 - [The C Programming Language, 2nd Edition](the-c-programming-language.pdf)
 - [Essential C](essential-c.pdf)
