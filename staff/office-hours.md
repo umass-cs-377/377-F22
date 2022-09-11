@@ -25,6 +25,7 @@ We are looking forward to talking with you in office hours!
 - Tim Richards, he/him, 9:00 AM - 10:00 AM, https://umass-amherst.zoom.us/s/2293213784
 - Sage Chircu, she/her, 9:00 AM - 10:00 AM, LGRT 220
 - Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220
+- Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
 - Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, TBD
 
 ## Thursday
