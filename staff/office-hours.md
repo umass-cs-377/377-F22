@@ -11,9 +11,7 @@ We are looking forward to talking with you in office hours!
 ## Monday
 
 - Sage Chircu, she/her, 10:00 AM - 11:00 AM, https://umass-amherst.zoom.us/j/93891181605
-
 - Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
-
 - Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, https://umass-amherst.zoom.us/j/92846222990
 
 ## Tuesday
