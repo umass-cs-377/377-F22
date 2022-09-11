@@ -4,6 +4,8 @@ Office hours are an opportunity for you to get answers to your questions and mor
 
 We are looking forward to talking with you in office hours!
 
+**Office hour times are subject to change. Check this document frequently.**
+
 ## Sunday
 
 - No office hours offered currently at this time.
