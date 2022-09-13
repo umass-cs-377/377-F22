@@ -39,7 +39,8 @@ We are looking forward to talking with you in office hours!
 - Sage Chircu, she/her, 10:00 AM - 11:00 AM, https://umass-amherst.zoom.us/j/93891181605
 - Meg Kaki, she/her, 11:00 AM - 12:00 PM, CS building room 207 (Cube 4)
 - Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
-- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, https://umass-amherst.zoom.us/j/92846222990
+- Meg Kaki, she/her, 2:00 PM - 3:00 PM, Room TBD (use zoom link for now)
+- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, LGRT 220 
 
 ## Tuesday
 
@@ -51,9 +52,11 @@ We are looking forward to talking with you in office hours!
 - Tim Richards, he/him, 9:00 AM - 10:00 AM, https://umass-amherst.zoom.us/s/2293213784
 - Sage Chircu, she/her, 9:00 AM - 10:00 AM, LGRT 220
 - Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220
+- Ronan Salz, he/him, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/3369071975
 - Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
+- Rohit Rangan, he/him, 2:00 PM - 3:00 PM, TBD
 - Meg Kaki, she/her, 2:00 PM - 3:00 PM, https://umass-amherst.zoom.us/j/9549654789
-- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, TBD
+- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, https://umass-amherst.zoom.us/j/92846222990
 
 ## Thursday
 
@@ -65,7 +68,9 @@ We are looking forward to talking with you in office hours!
 
 - Tim Richards, he/him, 9:00 AM - 10:00 AM, LGRC A351A
 - Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220
-- Eugene Mak, he/him, 1:15 PM - 2:15 PM, (TBD, hopefully LGRT)
+- Ronan Salz, he/him, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/3369071975
+- Rohit Rangan, he/him, 1:00 PM - 2:00 PM, TBD
+- Eugene Mak, he/him, 1:15 PM - 2:15 PM, LGRT 220
 - Stuart Lustig, he/him, 3:00 PM - 4:00 PM, https://umass-amherst.zoom.us/j/9378458479
 
 ## Saturday
