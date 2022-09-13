@@ -6,6 +6,30 @@ We are looking forward to talking with you in office hours!
 
 **Office hour times are subject to change. Check this document frequently.**
 
+## Instructors
+
+- Tim Richards
+
+## Teaching Assistants
+
+- Dave Dirnfeld
+- Calvin Chai
+- Bochen Xu
+
+## Undergraduate Course Assistants
+
+- Stuart Lustig
+- Meghana Kaki
+- Eugene Mak
+- Rohit Rangan
+- Sage Chircu
+- Yichong Liu
+- Ronan Salz
+- Zhiyang Zuo
+- Vinh Le
+
+---
+
 ## Sunday
 
 - No office hours offered currently at this time.
@@ -15,32 +39,39 @@ We are looking forward to talking with you in office hours!
 - Sage Chircu, she/her, 10:00 AM - 11:00 AM, https://umass-amherst.zoom.us/j/93891181605
 - Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
 - Meg Kaki, she/her, 2:00 PM - 3:00 PM, Room TBD (use zoom link for now)
-- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, https://umass-amherst.zoom.us/j/92846222990
+- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, LGRT 220 
 
 ## Tuesday
 
 - Calvin Chai, he/him, 1:00 PM - 2:00 PM, CS building room 207
+- Dave Dirnfeld, he/him 4:00PM - 5:00 PM, CS building room 207
 
 ## Wednesday
 
 - Tim Richards, he/him, 9:00 AM - 10:00 AM, https://umass-amherst.zoom.us/s/2293213784
 - Sage Chircu, she/her, 9:00 AM - 10:00 AM, LGRT 220
 - Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220
+- Ronan Salz, he/him, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/3369071975
 - Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
+- Rohit Rangan, he/him, 2:00 PM - 3:00 PM, TBD
 - Meg Kaki, she/her, 2:00 PM - 3:00 PM, https://umass-amherst.zoom.us/j/9549654789
-- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, TBD
+- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, https://umass-amherst.zoom.us/j/92846222990
 
 ## Thursday
 
 - Calvin Chai, he/him, 1:00 PM - 2:00 PM, CS building room 207
-- Eugene Mak, he/him, 11:45 AM - 12:45 PM, Zoom (Link TBD)
+- Eugene Mak, he/him, 11:45 AM - 12:45 PM, https://umass-amherst.zoom.us/j/93737341326
+- Dave Dirnfeld, he/him 4:00PM - 5:00 PM, CS building room 207
 
 ## Friday
 
 - Tim Richards, he/him, 9:00 AM - 10:00 AM, LGRC A351A
 - Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220
-- Eugene Mak, he/him, 1:15 PM - 2:15 PM, (TBD, hopefully LGRT)
+- Ronan Salz, he/him, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/3369071975
+- Rohit Rangan, he/him, 1:00 PM - 2:00 PM, TBD
+- Eugene Mak, he/him, 1:15 PM - 2:15 PM, LGRT 220
+- Stuart Lustig, he/him, 3:00 PM - 4:00 PM, https://umass-amherst.zoom.us/j/9378458479
 
 ## Saturday
 
-- No office hours offered currently at this time.
+- Stuart Lustig, he/him, 2:00 PM - 3:00 PM, https://umass-amherst.zoom.us/j/9378458479
