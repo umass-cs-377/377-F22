@@ -43,7 +43,7 @@ We are looking forward to talking with you in office hours!
 
 ## Tuesday
 
-- Calvin Chai, he/him, 1:00 PM - 2:00 PM, CS building room 207
+- Calvin Chai, he/him, 11:45 AM - 12:45 PM, CS building room 207
 - Dave Dirnfeld, he/him 4:00PM - 5:00 PM, CS building room 207
 
 ## Wednesday
@@ -59,7 +59,7 @@ We are looking forward to talking with you in office hours!
 
 ## Thursday
 
-- Calvin Chai, he/him, 1:00 PM - 2:00 PM, CS building room 207
+- Calvin Chai, he/him, 11:45 AM - 12:45 PM, CS building room 207
 - Eugene Mak, he/him, 11:45 AM - 12:45 PM, https://umass-amherst.zoom.us/j/93737341326
 - Dave Dirnfeld, he/him 4:00PM - 5:00 PM, CS building room 207
 
