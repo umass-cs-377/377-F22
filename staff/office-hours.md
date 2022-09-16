@@ -65,7 +65,6 @@ We are looking forward to talking with you in office hours!
 
 ## Friday
 
-- Tim Richards, he/him, 9:00 AM - 10:00 AM, LGRC A351A
 - Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220
 - Ronan Salz, he/him, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/3369071975
 - Rohit Rangan, he/him, 1:00 PM - 2:00 PM, TBD
