@@ -58,14 +58,13 @@ Su Mo Tu We Th Fr Sa
 - **Project 1: Inverted Index (Due: Tu, 9/20)**
 - Lecture: Limited Direct Execution (Tu, 9/20)
 - Lecture: Introduction to CPU Scheduling (Th, 9/22)
+- **Topic Quiz 1: Processes & Limited Direct Execution (Open: Th, 9/22)**
 - **Discussion 3: Kill and Errors (Fr, 9/23)**
   
 ## Week 04 (9/25 - 10/1)
 
-- **Topic Exam #1: Processes & Limited Direct Execution (Assigned: Mo, 9/26)**
 - Lecture: Multi-Level Feedback Queue (Tu, 9/27)
 - Lecture: Scheduling Conclusion (Th, 9/29)
-- **Topic Exam #1: Processes & Limited Direct Execution (Due: Th, 9/29)**
 - **Discussion: Scheduling (Fr, 9/30)**
 - **Project 3: Scheduling (Assigned: Fr, 9/30)**
   
@@ -92,10 +91,8 @@ Su Mo Tu We Th Fr Sa
   
 ## Week 08 (10/23 - 10/29)
 
-- **Topic Exam #2: Concurrency & Synchronization (Assigned: Mo, 10/23)**
 - Lecture: Address Spaces (Tu, 10/25)
 - Lecture: Segmentation and Free Space Management (Th, 10/27)
-- **Topic Exam #2: Concurrency & Synchronization (Due: Th, 10/27)**
 - **Discussion: Memory (Fr, 10/28)**
 - **Project 5: Memory Allocator (Assigned: Fr, 10/28)**
   
@@ -114,11 +111,9 @@ Su Mo Tu We Th Fr Sa
   
 ## Week 11 (11/13 - 11/19)
 
-- **Topic Exam #3: Memory (Assigned: Mo, 11/14)**
 - **Project 5: Memory Allocator (Due: Tu, 11/15)**
 - Lecture: File System Introduction (Tu, 11/15)
 - Lecture: File System Implementation(Th, 11/17)
-- **Topic Exam #3: Memory & Paging (Due: Th, 11/17)**
 - **Discussion: Serialization (Fr, 11/18)**
 - **Project 6: File System (Assigned: Fr, 11/18)**
   
