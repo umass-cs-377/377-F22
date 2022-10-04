@@ -38,6 +38,7 @@ We are looking forward to talking with you in office hours!
 
 - Sage Chircu, she/her, 10:00 AM - 11:00 AM, https://umass-amherst.zoom.us/j/93891181605
 - Meg Kaki, she/her, 11:00 AM - 12:00 PM, CS building room 207 (Cube 4)
+- Ronan Salz, he/him, 11:30 AM - 12:30 PM, https://umass-amherst.zoom.us/j/3369071975?pwd=MnZ0TllyOFY2WjZidTFSM2VXUFFZUT09 Passcode: 857153
 - Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
 - Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, LGRT 220 
 - Stuart Lustig, he/him, 2:30 PM - 3:30 PM, CS 207 Cube 3
@@ -66,9 +67,9 @@ We are looking forward to talking with you in office hours!
 
 ## Friday
 
-- Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220
-- Ronan Salz, he/him, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/3369071975
-- Rohit Rangan, he/him, 1:00 PM - 2:00 PM, https://umass-amherst.zoom.us/j/5602078767
+- Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220 or https://umass-amherst.zoom.us/j/5818065976?pwd=NzlaN29DNHBMQzZWci9iQWlLbm9lUT09
+- Ronan Salz, he/him, 10:00 AM - 11:00 PM, https://umass-amherst.zoom.us/j/3369071975?pwd=MnZ0TllyOFY2WjZidTFSM2VXUFFZUT09 Passcode: 857153
+- Rohit Rangan, he/him, 4:00 PM - 5:00 PM, https://umass-amherst.zoom.us/j/5602078767
 - Eugene Mak, he/him, 1:15 PM - 2:15 PM, LGRT 220
 
 ## Saturday
