@@ -6,6 +6,8 @@ We are looking forward to talking with you in office hours!
 
 **Office hour times are subject to change. Check this document frequently.**
 
+Zoom Office Hour Link: https://umass-amherst.zoom.us/j/99374885929
+
 ## Instructors
 
 - Tim Richards
@@ -36,42 +38,41 @@ We are looking forward to talking with you in office hours!
 
 ## Monday
 
-- Sage Chircu, she/her, 10:00 AM - 11:00 AM, https://umass-amherst.zoom.us/j/93891181605
-- Meg Kaki, she/her, 11:00 AM - 12:00 PM, CS building room 207 (Cube 4)
-- Ronan Salz, he/him, 11:30 AM - 12:30 PM, https://umass-amherst.zoom.us/j/3369071975?pwd=MnZ0TllyOFY2WjZidTFSM2VXUFFZUT09 Passcode: 857153
+- Sage Chircu, she/her, 10:00 AM - 11:00 AM, Zoom
+- Ronan Salz, he/him, 11:30 AM - 12:30 PM, Zoom
 - Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
-- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, LGRT 220 
 - Stuart Lustig, he/him, 2:30 PM - 3:30 PM, CS 207 Cube 3
 
 ## Tuesday
 
-- Calvin Chai, he/him, 11:45 AM - 12:45 PM, CS building room 207 Block 4
-- Dave Dirnfeld, he/him 4:00PM - 5:00 PM, CS building room 207
+- Calvin Chai, he/him, 11:45 AM - 12:45 PM, CS 207 Cube 4
+- Zhiyang Zuo, he/him, 1:15 PM - 2:15 PM, LGRT 223
+- Calvin Chai, he/him, 3:00 PM - 4:00 PM, Zoom
+- Dave Dirnfeld, he/him 4:00PM - 5:00 PM, CS 207
 
 ## Wednesday
 
-- Tim Richards, he/him, 9:00 AM - 10:00 AM, https://umass-amherst.zoom.us/s/2293213784
-- Sage Chircu, she/her, 9:00 AM - 10:00 AM, LGRT 220
+- Tim Richards, he/him, 9:00 AM - 10:00 AM, Zoom
 - Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220
-- Ronan Salz, he/him, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/3369071975
+- Meg Kaki, she/her, 12:00 PM - 1:00 PM, Zoom
 - Vinh Le, He/him, 1:00 PM - 2:00 PM, LGRT 220
-- Rohit Rangan, he/him, 2:00 PM - 3:00 PM, https://umass-amherst.zoom.us/j/5602078767
-- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, https://umass-amherst.zoom.us/j/92846222990
+- Rohit Rangan, he/him, 2:00 PM - 3:00 PM, Zoom
+- Zhiyang Zuo, he/him, 2:45 PM - 3:45 PM, Zoom
 
 ## Thursday
 
-- Meg Kaki, she/her, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/9549654789
-- Calvin Chai, he/him, 11:45 AM - 12:45 PM, CS building room 207 Block 4
-- Eugene Mak, he/him, 11:45 AM - 12:45 PM, https://umass-amherst.zoom.us/j/93737341326
-- Dave Dirnfeld, he/him 4:00PM - 5:00 PM, CS building room 207
+- Meg Kaki, she/her, 11:00 AM - 12:00 PM, Zoom
+- Eugene Mak, he/him, 11:45 AM - 12:45 PM, Zoom
+- Dave Dirnfeld, he/him 4:00PM - 5:00 PM, CS 207
+- Sage Chircu, she/her, 5:00 PM - 6:00 PM, Zoom
 
 ## Friday
 
-- Yichong Liu, he/him, 10:00 AM - 11:00 AM, LGRT 220 or https://umass-amherst.zoom.us/j/5818065976?pwd=NzlaN29DNHBMQzZWci9iQWlLbm9lUT09
-- Ronan Salz, he/him, 10:00 AM - 11:00 PM, https://umass-amherst.zoom.us/j/3369071975?pwd=MnZ0TllyOFY2WjZidTFSM2VXUFFZUT09 Passcode: 857153
-- Rohit Rangan, he/him, 4:00 PM - 5:00 PM, https://umass-amherst.zoom.us/j/5602078767
+- Ronan Salz, he/him, 10:00 AM - 11:00 PM, Zoom
 - Eugene Mak, he/him, 1:15 PM - 2:15 PM, LGRT 220
+- Rohit Rangan, he/him, 4:00 PM - 5:00 PM, Zoom
 
 ## Saturday
 
-- Stuart Lustig, he/him, 2:00 PM - 3:00 PM, https://umass-amherst.zoom.us/j/9378458479
+- Stuart Lustig, he/him, 2:00 PM - 3:00 PM, Zoom
+- Yichong Liu, he/him, 3:00 PM - 4:00 PM, Zoom
