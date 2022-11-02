@@ -10,7 +10,7 @@ Zoom Office Hour Link: https://umass-amherst.zoom.us/j/99374885929
 
 ## Instructors
 
-- Tim Richards
+- Tim Richards (use https://umass-amherst.zoom.us/s/2293213784 for my office hours since I have office hours for two different courses)
 
 ## Teaching Assistants
 
